@@ -6,6 +6,7 @@ class Test {
         System.out.println("Hello ");
         System.out.println("Hi i am Rehan Khan");
         System.out.println("hi i am good");
-        
+        int a=10,b=20;
+        System.out.println(a+b);
     }
 }
