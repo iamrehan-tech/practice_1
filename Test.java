@@ -5,5 +5,6 @@ class Test {
         System.out.println("Hello this is first page");
         System.out.println("Hello ");
         System.out.println("Hi i am Rehan Khan");
+        System.out.println("hi i am good");
     }
 }
